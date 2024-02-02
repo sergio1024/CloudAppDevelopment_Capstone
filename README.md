@@ -2,16 +2,28 @@
 
 This is the final version of the Capstone project.
 
-Application Area: Sale of automobiles 
+Application Area:
 
-# Name:
+  - Sale of automobiles 
 
-Best Car Dealer
+# Title:
+
+  - Best Car Dealer
+
+# Frameworks:
+
+  - Django
+  - Flask (just on IBM Functions)
+
+# Cloud services used:
+
+  - IBM Cloudant (non relational database)
+  - IBM Functions
+  - IBM Watson NLU (Natural Language Understanding)
 
 # Images
 
-All the images in the app came from the Pixabay website.
+  - The images in the app came from the Pixabay website.
+  - All images are free to use and do not require any attribution, or mention to the authors.
 
-They are free to use and do not require any attribution or mention to the authors.
-
-Link: https://pixabay.com
+  - Link: https://pixabay.com
