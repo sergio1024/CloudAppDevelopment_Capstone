@@ -17,6 +17,7 @@ Application Area:
 
 # Cloud services used:
 
+  - IBM Cloud Object Storage
   - IBM Cloudant (non relational database)
   - IBM Functions
   - IBM Watson NLU (Natural Language Understanding)
