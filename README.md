@@ -13,7 +13,7 @@ Application Area:
 # Frameworks:
 
   - Django
-  - Flask (just on IBM Functions)
+  - Flask (on IBM Functions)
 
 # Cloud services used:
 
